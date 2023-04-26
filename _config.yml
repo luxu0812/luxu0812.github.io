@@ -12,9 +12,6 @@ description: >
   personal memoir where reflections, growth, and vulnerability converge, inviting
   readers to explore the profound depths of a soul laid bare.
 
-# Build settings
-theme: luxu0812_pages
-
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
