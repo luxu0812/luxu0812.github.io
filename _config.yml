@@ -18,7 +18,7 @@ plugins:
 
 # Theme-specific settings
 
-luxu0812_pages:
+luxu0812/pages_theme:
   skin: classic
 
   # Minima date format.
