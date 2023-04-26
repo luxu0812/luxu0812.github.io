@@ -1,4 +1,4 @@
-remote_theme: luxu0812/pages_theme
+theme: minima
 title: Soulful Musings
 author:
   name: luxu0812
@@ -18,7 +18,7 @@ plugins:
 
 # Theme-specific settings
 
-luxu0812/pages_theme:
+minima:
   skin: classic
 
   # Minima date format.
