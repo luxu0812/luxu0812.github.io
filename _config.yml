@@ -12,7 +12,7 @@ description: >
 
 # Build settings
 
-theme: luxu0812_pages
+remote-theme: luxu0812/pages_theme
 
 plugins:
   - jekyll-feed
