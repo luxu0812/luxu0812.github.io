@@ -19,7 +19,7 @@ plugins:
 # Theme-specific settings
 
 minima:
-  skin: classic
+  skin: solarized-dark
 
   # Minima date format.
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
