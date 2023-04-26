@@ -44,3 +44,4 @@ Thumbs.db
 #######
 *.lock
 .sass-cache
+_site
