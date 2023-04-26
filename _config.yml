@@ -1,16 +1,18 @@
-remote_theme: luxu0812/pages_theme
 title: Soulful Musings
 author:
-  name: luxu0812
+  name: Xu Lu
   email: zh.luxu1986@outlook.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Soulful Musings is a heartfelt journey through the experiences, emotions, and 
-  opinions of its author. Unveiling the layers of life, this blog serves as a
-  personal memoir where reflections, growth, and vulnerability converge, inviting
-  readers to explore the profound depths of a soul laid bare.
+  Write an awesome description for your new site here. You can edit this line
+  in _config.yml. It will appear in your document head meta (for Google search
+  results) and in your feed.xml site description.
+
+# Build settings
+
+theme: luxu0812_pages
 
 plugins:
   - jekyll-feed
@@ -19,6 +21,7 @@ plugins:
 # Theme-specific settings
 
 luxu0812_pages:
+  skin: auto
   # Minima date format.
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
   #
