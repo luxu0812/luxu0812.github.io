@@ -1,0 +1,57 @@
+digraph G {
+    graph [pad="0.5", nodesep="1", ranksep="2", splines=polyline, bgcolor="#f0f0f0"];
+    node [shape=plaintext, fontname="Times-Roman", fontsize=14];
+    edge [color="#555555"];
+
+    PaternalGrandfather [label="Hai Lu (卢 海)\n(?-?)"];
+    PaternalGrandmother [label="Xiuzhi Zhao (赵 秀芝)\n(?-2013)"];
+    MaternalGrandfather [label="Jiuxiang Li (李 九祥)\n(?-?)"];
+    MaternalGrandmother [label="Ruxia Xiao (萧 如霞)\n(1938-)"];
+
+    Father [label="Wanxiang Lu (卢 万祥)\n(02/24/1963 - )"];
+    Mother [label="Wenbo Li (李 文波)\n(09/18/1964 - )"];
+
+    PaternalAunt1 [label="Yushu Lu (卢 玉书)\n(?-)"];
+    PaternalAunt2 [label="Yuqin Lu (卢 玉琴)\n(?-)"];
+    PaternalUncle1 [label="WanYuan Lu (卢 万元)\n(?-)"];
+    PaternalUncle2 [label="Wanli Lu (卢 万利)\n(?-)"];
+
+    MaternalUncle1 [label="Wenjun Li (李 文军)\n(?-)"];
+    MaternalAunt1 [label="Wentao Li (李 文涛)\n(?-)"];
+
+    You [label="Xu Lu (卢 旭)\n(10/29/1986 - )", color="#003f5c", fontcolor="#003f5c"];
+    Wife [label="Xuli Zhong (钟 旭丽)\n(05/13/1984 - )", color="#003f5c", fontcolor="#003f5c"];
+    Daughter [label="Youxuan Lu (卢 宥萱)\n(08/12/2021 - )", color="#003f5c", fontcolor="#003f5c"];
+
+    {rank=same; PaternalGrandfather PaternalGrandmother}
+    {rank=same; MaternalGrandfather MaternalGrandmother}
+    {rank=same; PaternalAunt1 PaternalAunt2 PaternalUncle1 PaternalUncle2}
+    {rank=same; MaternalAunt1 MaternalUncle1}
+    {rank=same; Father Mother}
+    {rank=same; You Wife}
+    {rank=same; Daughter}
+
+    PaternalGrandfather -> Father [arrowhead=none];
+    PaternalGrandmother -> Father [arrowhead=none];
+    Father -> You [arrowhead=none];
+    Mother -> You [arrowhead=none];
+    MaternalGrandfather -> Mother [arrowhead=none];
+    MaternalGrandmother -> Mother [arrowhead=none];
+
+    PaternalGrandfather -> PaternalAunt1 [arrowhead=none];
+    PaternalGrandmother -> PaternalAunt1 [arrowhead=none];
+    PaternalGrandfather -> PaternalAunt2 [arrowhead=none];
+    PaternalGrandmother -> PaternalAunt2 [arrowhead=none];
+    PaternalGrandfather -> PaternalUncle1 [arrowhead=none];
+    PaternalGrandmother -> PaternalUncle1 [arrowhead=none];
+    PaternalGrandfather -> PaternalUncle2 [arrowhead=none];
+    PaternalGrandmother -> PaternalUncle2 [arrowhead=none];
+
+    MaternalGrandfather -> MaternalAunt1 [arrowhead=none];
+    MaternalGrandmother -> MaternalAunt1 [arrowhead=none];
+    MaternalGrandfather -> MaternalUncle1 [arrowhead=none];
+    MaternalGrandmother -> MaternalUncle1 [arrowhead=none];
+
+    You -> Daughter;
+    Wife -> Daughter;
+}
