@@ -11,6 +11,8 @@ Starting from the top, you'll see my paternal and maternal grandparents. My pate
 
 My father has four siblings: Yushu Lu (卢 玉书), Yuqin Lu (卢 玉琴), WanYuan Lu (卢 万元), and Wanli Lu (卢 万利). My mother also has two siblings: Wenjun Li (李 文军) and Wentao Li (李 文涛).
 
+![My father, mother, wife, daughter, and me](https://luxu0812.github.io/assets/img/family_photo.png)
+
 I, Xu Lu (卢 旭), Matthew Nathaniel Lu (English name), was born on October 29, 1986. I am fortunate to have found my life partner, Xuli Zhong (钟 旭丽), who was born on May 13, 1984. Together, we have been blessed with a beautiful daughter, Youxuan Lu (卢 宥萱), Amelia Grace Lu (English name), who was born on August 12, 2021.
 
 Our family tree not only represents our lineage but also symbolizes the love, support, and connection we all share as a family. I am proud of our family's history and grateful for the bond we share. By sharing our family tree with you, I hope to inspire you to learn more about your own family history and cherish the relationships that make your family unique.
