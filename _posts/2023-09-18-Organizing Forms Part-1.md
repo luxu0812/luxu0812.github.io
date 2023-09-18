@@ -43,5 +43,5 @@ Inference Two: Attractive forces encompass factors like blood ties, shared value
 Inference Three: Repulsive forces, in contrast, involve factors like lacking blood ties, differing values, conflicting interests, and disharmonious relationships. <br>
 Inference Four: Blood ties and contracts are the most enduring attractive forces. <br>
 Inference Five: Values, interests, and emotions are more changeable. <br>
-Inference Six: It is challenging to establish a large, diverse organization based on changeable forces, as seen in Chinese society, making it unreliable and unstable.
+Inference Six: It is challenging to establish a large, diverse organization based on changeable forces, as seen in Chinese society, making it unreliable and unstable. <br>
 Inference Seven: Establishing a large, diverse organization based on less changeable forces, as observed in Western societies, leads to reliability and stability.
