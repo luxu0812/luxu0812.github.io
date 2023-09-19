@@ -29,20 +29,19 @@ Known feasible solutions can be categorized into various forms (are there any ne
 
 Each form includes several different feasible solutions.
 
-Theory One: A commonality among feasible solutions is a balance of power; conversely, a commonality among unfeasible solutions is an imbalance of power. <br>
-Inference One: Larger, more diverse organizations tend to achieve a better balance of power, while smaller, less diverse organizations struggle to maintain balance. <br>
-Inference Two: An organization in the process of shrinking and becoming more monotonous will generate a significant imbalance of power.
+Theory 1: A commonality among feasible solutions is a balance of power; conversely, a commonality among unfeasible solutions is an imbalance of power. <br>
+Inference 1: Larger, more diverse organizations tend to achieve a better balance of power, while smaller, less diverse organizations struggle to maintain balance. <br>
+Inference 2: An organization in the process of shrinking and becoming more monotonous will generate a significant imbalance of power.
 
-Theory Two: Forces related to an organization can be divided into internal member interactions and interactions between the organization and the external environment. <br>
-Inference One: Organizations need to obtain energy from external sources to maintain internal order. <br>
-Inference Two: When an organization is unable to obtain sufficient energy externally, it may need to eliminate internal members and convert them into energy to sustain the remaining members' order. <br>
+Theory 2: Forces related to an organization can be divided into internal member interactions and interactions between the organization and the external environment. <br>
+Inference 1: Organizations need to obtain energy from external sources to maintain internal order. <br>
+Inference 2: When an organization is unable to obtain sufficient energy externally, it may need to eliminate internal members and convert them into energy to sustain the remaining members' order. <br>
 
-Theory Three: Forces among internal organization members can be categorized as attractive forces and repulsive forces.
-<br>
-Inference One: When attractive forces exceed repulsive forces, an organization can maintain its integrity; conversely, it will disintegrate. <br>
-Inference Two: Attractive forces encompass factors like blood ties, shared values, aligned interests, harmonious relationships, and contracts. <br>
-Inference Three: Repulsive forces, in contrast, involve factors like lacking blood ties, differing values, conflicting interests, and disharmonious relationships. <br>
-Inference Four: Blood ties and contracts are the most enduring attractive forces. <br>
-Inference Five: Values, interests, and emotions are more changeable. <br>
-Inference Six: It is challenging to establish a large, diverse organization based on changeable forces, as seen in Chinese society, making it unreliable and unstable. <br>
-Inference Seven: Establishing a large, diverse organization based on less changeable forces, as observed in Western societies, leads to reliability and stability.
+Theory 3: Forces among internal organization members can be categorized as attractive forces and repulsive forces. <br>
+Inference 1: When attractive forces exceed repulsive forces, an organization can maintain its integrity; conversely, it will disintegrate. <br>
+Inference 2: Attractive forces encompass factors like blood ties, shared values, aligned interests, harmonious relationships, and contracts. <br>
+Inference 3: Repulsive forces, in contrast, involve factors like lacking blood ties, differing values, conflicting interests, and disharmonious relationships. <br>
+Inference 4: Blood ties and contracts are the most enduring attractive forces. <br>
+Inference 5: Values, interests, and emotions are more changeable. <br>
+Inference 6: It is challenging to establish a large, diverse organization based on changeable forces, as seen in Chinese society, making it unreliable and unstable. <br>
+Inference 7: Establishing a large, diverse organization based on less changeable forces, as observed in Western societies, leads to reliability and stability.
