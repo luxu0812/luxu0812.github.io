@@ -26,6 +26,7 @@ Known feasible solutions can be categorized into various forms (are there any ne
 6. Factions.
 7. Families.
 8. Clans.
+
 Each form includes several different feasible solutions.
 
 Theory One: A commonality among feasible solutions is a balance of power; conversely, a commonality among unfeasible solutions is an imbalance of power. <br>
