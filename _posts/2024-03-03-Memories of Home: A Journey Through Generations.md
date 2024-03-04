@@ -1,5 +1,5 @@
 ---
-title: "A Journey Begins: Welcome to Soulful Musings"
+title: "Memories of Home: A Journey Through Generations"
 date: 2024-03-03
 ---
 
